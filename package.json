@@ -1,0 +1,28 @@
+{
+  "name": "express-boiler-hc",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "http-errors": "~1.6.2",
+    "ioredis": "^4.14.1",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "log4js": "^4.0.0",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.1.13",
+    "nodemailer": "^6.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
