@@ -17,7 +17,7 @@
     "ioredis": "^4.14.1",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
-    "log4js": "^4.0.0",
+    "log4js": "^6.4.0",
     "method-override": "^3.0.0",
     "mongodb": "^3.1.13",
     "nodemailer": "^6.4.2"
