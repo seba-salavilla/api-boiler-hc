@@ -12,7 +12,7 @@
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
     "excel4node": "^1.7.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-errors": "~1.6.2",
     "ioredis": "^4.14.1",
     "joi-objectid": "^2.0.0",
